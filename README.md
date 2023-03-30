@@ -1,4 +1,4 @@
 # SW
 
-python 수치자료형 연습 
+python 연산자 연습 
 
